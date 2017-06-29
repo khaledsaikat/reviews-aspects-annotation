@@ -13,7 +13,7 @@
         "1": "You can never have too much phone memory, since I download a lot of stuff this was a no brainer for me."
     },
     "aspects": {
-        "works": ", it worked as advertised."
+        "works": [0]
     }
 }, {
     "reviewerID": "A2FII3I2MBMUIA",
@@ -31,8 +31,8 @@
         "2": "I think its made a bit cheesier than the earlier versions; the paint looks not as clean as before"
     },
     "aspects": {
-        "works": "it works as expected.",
-        "looks": "I think its made a bit cheesier than the earlier versions; the paint looks not as clean as before"
+        "works": [0],
+        "looks": [2]
     }
 }, {
     "reviewerID": "A3H99DFEG68SR",
@@ -51,8 +51,8 @@
         "3": "This card is reliable and solid!Cheers!"
     },
     "aspects": {
-        "works": "This think has worked out great.",
-        "reliability": "This card is reliable and solid!"
+        "works": [0],
+        "reliability": [3]
     }
 }, {
     "reviewerID": "A375ZM4U047O79",
@@ -69,10 +69,10 @@
         "1": "arrived quickly, bought a 32 and 16 both retail packaging for my htc one sv and Lg Optimus, both cards in working order, probably best price you'll get for a nice sd card"
     },
     "aspects": {
-        "packaging": "Bought it with Retail Packaging,",
-        "shipping time": "arrived quickly,",
-        "works": ", both cards in working order,",
-        "price": ", probably best price you'll get for a nice sd card"
+        "packaging": [0],
+        "shipping time": [1],
+        "works": [1],
+        "price": [1]
     }
 }, {
     "reviewerID": "A2IDCSC6NVONIZ",
@@ -91,7 +91,7 @@
         "3": "It does what it's supposed to and SanDisk has a long standing reputation that speaks for itself."
     },
     "aspects": {
-        "works": "It does what it's supposed to and SanDisk has a long standing reputation that speaks for itself."
+        "works": [3]
     }
 }, {
     "reviewerID": "A26YHXZD5UFPVQ",
@@ -111,8 +111,8 @@
         "4": "If you lose everything can you forgive yourself for not spending the extra couple bucks on a trusted product that goes through good QA?"
     },
     "aspects": {
-        "speed": "File transfers are speedy and have not had any corruption issues or memory fade issues as I would expect from the Sandisk brand.",
-        "issue": "File transfers are speedy and have not had any corruption issues or memory fade issues as I would expect from the Sandisk brand."
+        "speed": [1],
+        "issue": [1]
     }
 }, {
     "reviewerID": "A3CW0ZLUO5X2B1",
@@ -130,7 +130,7 @@
         "2": "Works great with all SD card readers.Select with confidence."
     },
     "aspects": {
-        "works": "Works great with all SD card readers."
+        "works": [2]
     }
 }, {
     "reviewerID": "A1RTQROTWR5NCB",
@@ -150,8 +150,8 @@
         "4": "I recommend this 32GB SD Card to everyone."
     },
     "aspects": {
-        "speed": ", and multimedia images with a fast transfer rate of Class 10 speed.",
-        "adapter": "It&#34;s great for video cameras and camcorders with the supplied adapter."
+        "speed": [0],
+        "adapter": [2]
     }
 }, {
     "reviewerID": "A2Q3ICGWZLY3JJ",
@@ -168,8 +168,8 @@
         "1": "Can't figure why..."
     },
     "aspects": {
-        "works": "It works,",
-        "speed": "It works, but file writes are a bit slower than expected on a USB3 reader."
+        "works": [0],
+        "speed": [0]
     }
 }, {
     "reviewerID": "AVHN134ADVP4R",
@@ -186,10 +186,10 @@
         "1": "I have had no issues with it.Overall, highly recommend."
     },
     "aspects": {
-        "speed": "Solid SDHC card that is fast (at reading and writing) fast (for recording video and pics),",
-        "capacity": ", has great capacity,",
-        "price": ", and is reasonably priced.",
-        "works": "I have had no issues with it."
+        "speed": [0],
+        "capacity": [0],
+        "price": [0],
+        "works": [1]
     }
 }, {
     "reviewerID": "A29RI184HRX66H",
@@ -209,10 +209,10 @@
         "4": "Comes with a nice hard plastic case to keep both dry and together if needed."
     },
     "aspects": {
-        "works": "So far I've had no issues with it.",
-        "speed": "Fast read/write,",
-        "adapter": ", came with adapter,",
-        "packaging": "adapter, small packaging, but that's all it needed!"
+        "works": [2],
+        "speed": [3],
+        "adapter": [3],
+        "packaging": [3]
     }
 }, {
     "reviewerID": "A2G9ZHVA6IOGBY",
@@ -254,10 +254,10 @@
         "4": "Your mobile device may not survive, but your SanDisk memory card will."
     },
     "aspects": {
-        "speed": "the highest video performance available for recording uninterrupted Full HD** video. ... Flawless App PerformanceThis card can retrieve stored data almost instantly, thanks to its up to 30MB/s read capability and fast bus interface.",
-        "cloud": ", and cloud service all in one convenient place. Using the app, you can easily move files from your card to a number of cloud storage services.",
-        "durability": "Durable DesignSanDisk Ultra UHS-I memory cards can capture memories from -13 to 185 degrees Fahrenheit with a shockproof,",
-        "temperature": "Durable DesignSanDisk Ultra UHS-I memory cards can capture memories from -13 to 185 degrees Fahrenheit with a shockproof,"
+        "speed": [0],
+        "cloud": [2, 3],
+        "durability": [3],
+        "temperature": [3]
     }
 }, {
     "reviewerID": "A1V6CQACZ9IOLC",
@@ -276,7 +276,7 @@
         "3": "I think I'm becoming a fan of the SanDisk products."
     },
     "aspects": {
-        "speed": "The read and write speeds are better than the Samsung SD card that I had previously."
+        "speed": [0]
     }
 }, {
     "reviewerID": "A6AL9BZ0JALUP",
@@ -295,9 +295,9 @@
         "3": "Mainly bought it to use in my Nikon DSLR since I can put the card directly into my (CM modded) Nook HD+ tablet in the field and view my images on a larger screen."
     },
     "aspects": {
-        "works": "Works as expected.",
-        "speed": "High transfer speed.",
-        "adapter": "Nice to have extra microSD adapters lying around since I always seem to misplace them."
+        "works": [0],
+        "speed": [1],
+        "adapter": [2]
     }
 }, {
     "reviewerID": "A80SHWURCS1KD",
@@ -316,8 +316,8 @@
         "3": "I guess the IO in the phone can't take advantage."
     },
     "aspects": {
-        "works": "Works great in a Samsung Galaxy S3.",
-        "speed": "I can't really tell the speed difference between this one and a slower card it replaced."
+        "works": [0],
+        "speed": [2]
     }
 }, {
     "reviewerID": "ATSVUBE2115N1",
@@ -336,7 +336,7 @@
         "3": "I recommend this product to everyone."
     },
     "aspects": {
-        "works": "Nice product and quality and works great."
+        "works": [2]
     }
 }, {
     "reviewerID": "A1U9QJQW3XPRL2",
@@ -356,7 +356,7 @@
         "4": "I will update this review if I have any issues using it, if not, my rating will remain unchanged..."
     },
     "aspects": {
-        "packaging": "I received it in an unopened SanDisk packaging."
+        "packaging": [1]
     }
 }, {
     "reviewerID": "A3PIINTTBEA5C3",
@@ -375,7 +375,7 @@
         "3": "haha..."
     },
     "aspects": {
-        "works": ", works great!"
+        "works": [0]
     }
 }, {
     "reviewerID": "A2U4VW7FAB7W9A",
@@ -392,8 +392,8 @@
         "1": "Great hardware that is truly speedy, responsive and meets my needs!"
     },
     "aspects": {
-        "hardware": "Great hardware that is truly speedy,",
-        "speed": "Great hardware that is truly speedy,"
+        "hardware": [1],
+        "speed": [1]
     }
 }, {
     "reviewerID": "ADAVEDQ2BK3XE",
@@ -413,7 +413,7 @@
         "4": "The speed is READ, not WRITE, but you knew that, right?"
     },
     "aspects": {
-        "speed": "it delivers the advertised speed."
+        "speed": [2]
     }
 }, {
     "reviewerID": "A25TM6Q7ROIR0Y",
@@ -432,7 +432,7 @@
         "3": "Great item."
     },
     "aspects": {
-        "size": "I can't believe how small it is."
+        "size": [1]
     }
 }, {
     "reviewerID": "A2QVJ0I3RAQHTS",
@@ -455,8 +455,8 @@
         "7": "I've seen these same cards going for about $72 in my area."
     },
     "aspects": {
-        "speed": "It's pretty fast compared to the 16GB cards I've been using.",
-        "seller": "Also you pay like half the price using Amazon as opposed to other retail stores who's price is at least double or more."
+        "speed": [1],
+        "seller": [6]
     }
 }, {
     "reviewerID": "AF24M1HKIZ7QC",
@@ -473,7 +473,7 @@
         "1": "and lost everythingnever buying from SanDisk again .. ever"
     },
     "aspects": {
-        "longevity": ", plugged in the 2nd one :) stayed for about 2 months and died suddenly !"
+        "longevity": [0]
     }
 }, {
     "reviewerID": "A1KIF9Z5VFPH7H",
@@ -491,8 +491,8 @@
         "2": "An excellent choice for the enthusiast who requires more storage."
     },
     "aspects": {
-        "works": "The memory card is an excellent condition and work as described.",
-        "ease of use": "Dependable and easy to use."
+        "works": [0],
+        "ease of use": [1]
     }
 }, {
     "reviewerID": "A747BB4QM2SWW",
@@ -510,8 +510,8 @@
         "2": "I always end up buying more because the prices are so low for what you get."
     },
     "aspects": {
-        "speed": "I've had no problems and no complaints about speed.",
-        "price": "I always end up buying more because the prices are so low for what you get."
+        "speed": [1],
+        "price": [2]
     }
 }, {
     "reviewerID": "AKVRSGKPY2C4R",
@@ -529,7 +529,7 @@
         "2": "I am 100% satisfied."
     },
     "aspects": {
-        "speed": "Data Transfer speeds - excellent with this card on my Galaxy S2."
+        "speed": [0]
     }
 }, {
     "reviewerID": "A1FKE13D77L3Y3",
@@ -546,9 +546,9 @@
         "1": "Total disagree I will buy a Samsung memory card expected a better quality."
     },
     "aspects": {
-        "speed": ", my i9300 phone can read a 64GB very fast, the dta transfer speed from my pc to my is amazing,",
-        "build quality": "Pros-Very good quality materials of construction-Amazing speedUpdate after one year",
-        "longevity": "after one year this memory is damaged"
+        "speed": [0],
+        "build quality": [0],
+        "longevity": [0]
     }
 }, {
     "reviewerID": "A3433V6H1NDFGP",
@@ -584,8 +584,8 @@
         "5": "Now it you are a Professional Photographer you might want to go with the Ultra 3 Micro SD but if you are an everyday user this will work wonders for you device."
     },
     "aspects": {
-        "speed": ", and Music faster this is the Micro SD card for you.",
-        "price": "Now I will say this there are faster cards out there but not at this price."
+        "speed": [2],
+        "price": [3]
     }
 }, {
     "reviewerID": "A28PQ9EX1MDCXP",
@@ -602,7 +602,7 @@
         "1": "I've never had one fail, the price is great for the amount of storage you get."
     },
     "aspects": {
-        "price": ", the price is great for the amount of storage you get."
+        "price": [1]
     }
 }, {
     "reviewerID": "A1X1FX3NSOFCT3",
@@ -623,7 +623,7 @@
         "5": "I still will not be buying any more Sandisk memory cards however..."
     },
     "aspects": {
-        "longevity": "Lasted a few months and then broke."
+        "longevity": [1]
     }
 }, {
     "reviewerID": "A3RV1L35IPTV61",
@@ -641,7 +641,7 @@
         "2": "Not sure if it's the card or the device, so benefit of the doubt and four stars."
     },
     "aspects": {
-        "speed": "A bit faster in my Note II, but still a disappointment for devices with quad core processors."
+        "speed": [1]
     }
 }, {
     "reviewerID": "A32WSJTH8ZWZC4",
@@ -659,8 +659,8 @@
         "2": "But with 16 GB capacity, you won't be handling it often."
     },
     "aspects": {
-        "works": "This tiny marvel does what it claims.",
-        "size": "he only possible problem is that it is SO small that you may lose it if you happen to drop it during handling."
+        "works": [0],
+        "size": [1]
     }
 }, {
     "reviewerID": "A2RJ7DAL63MN1F",
@@ -679,7 +679,7 @@
         "3": "The new one's worked fine, but failing after 3 months in inexcusable."
     },
     "aspects": {
-        "longevity": ", then it decided to quit mounting. ... , but failing after 3 months in inexcusable."
+        "longevity": [0, 3]
     }
 }, {
     "reviewerID": "A7IRR3TLZK2C5",
@@ -696,7 +696,7 @@
         "1": "This was always going to be a one star or five star review - no middle ground.The adapter is a nice bonus too, though I don't think I have anything to use it with."
     },
     "aspects": {
-        "adapter": "The adapter is a nice bonus too,"
+        "adapter": [1]
     }
 }, {
     "reviewerID": "AVVG2XSQM9W4C",
@@ -714,8 +714,8 @@
         "2": "It allows me to easily record hours of 720p/60fps video without running out of space or slowing down."
     },
     "aspects": {
-        "works": "I purchased this card to use in my ContourROAM2 and it works great.",
-        "speed": "It allows me to easily record hours of 720p/60fps video without running out of space or slowing down."
+        "works": [0],
+        "speed": [2]
     }
 }, {
     "reviewerID": "A3IJIFZ5HH819V",
@@ -733,7 +733,7 @@
         "2": "so my fault i guess, but i also bought a 16gb version and the adapter for that one was fine."
     },
     "aspects": {
-        "adapter": "everything about it was great, except for the adapter."
+        "adapter": [0]
     }
 }, {
     "reviewerID": "A1M1BDJBIS2KUJ",
@@ -757,11 +757,11 @@
         "8": "I suggest buying direct from Amazon (or Memory Mogul) - I have purchased from both with no issues."
     },
     "aspects": {
-        "speed": "Very, very fast read and write speeds at a good price,",
-        "price": "Very, very fast read and write speeds at a good price,",
-        "software": ", plus SanDisk has the best software and device compatibility.",
-        "compatibility": ", plus SanDisk has the best software and device compatibility.",
-        "durability": "this is your most flexible, durable option."
+        "speed": [1],
+        "price": [1],
+        "software": [1],
+        "compatibility": [1],
+        "durability": [2]
     }
 }, {
     "reviewerID": "A1R0JMNRV7HVQM",
@@ -780,10 +780,10 @@
         "3": "Packaging was decent it just shouldn't have bragged about being impossible to mess up when I messed it up."
     },
     "aspects": {
-        "works": "sed in my phone it's plenty fast and works just like it should",
-        "speed": "sed in my phone it's plenty fast and works just like it should",
-        "adapter": "Unexpectedly comes with mini and full SD card size adapters, which is nice.",
-        "packaging": "Packaging was decent"
+        "works": [0],
+        "speed": [0],
+        "adapter": [1],
+        "packaging": [3]
     }
 }, {
     "reviewerID": "AISPK12EZ1YKZ",
@@ -801,8 +801,8 @@
         "2": "it shipped fast and is a slight bit cheaper than in the stores i believe."
     },
     "aspects": {
-        "shipping time": "it shipped fast and is a slight bit cheaper than in the stores i believe.",
-        "price": "it shipped fast and is a slight bit cheaper than in the stores i believe."
+        "shipping time": [2],
+        "price": [2]
     }
 }, {
     "reviewerID": "A1Q0TKY4A5NBFW",
@@ -822,7 +822,7 @@
         "4": "Highly recommended for any smartphone user!"
     },
     "aspects": {
-        "works": ", and it works awesome!"
+        "works": [0]
     }
 }, {
     "reviewerID": "AI1NJ92OUOM2V",
@@ -842,7 +842,7 @@
         "4": "I'm a very pleased customer."
     },
     "aspects": {
-        "storage": "It's the real deal, genuine SanDisk, and contains as many GB as it says it does."
+        "storage": [3]
     }
 }, {
     "reviewerID": "A6K6Z2V4TUVZ7",
@@ -860,7 +860,7 @@
         "2": "This thing was cheap and works great."
     },
     "aspects": {
-        "price": "This thing was cheap and works great."
+        "price": [2]
     }
 }, {
     "reviewerID": "A39H670PD32Z1X",
@@ -878,8 +878,8 @@
         "2": "very easy to use, reliable and the red stripe on the front makes it easy to find on a crowded desk"
     },
     "aspects": {
-        "speed": ", excellent speed.",
-        "ease of use": "ery easy to use,"
+        "speed": [0],
+        "ease of use": [2]
     }
 }, {
     "reviewerID": "APAEBFIM1588A",
@@ -895,7 +895,7 @@
         "0": "This card advertises itself as UHS1 but it's actually UHS50.This means that it will not go up to SDR104 speeds/throughput.Not necessary bad, just false advertising."
     },
     "aspects": {
-        "speed": ""
+        "speed": [0]
     }
 }, {
     "reviewerID": "A1OM05JSG2J1KB",
@@ -917,7 +917,7 @@
         "6": "Its also a Sandisk which is a name you can trust when it come to memory cards."
     },
     "aspects": {
-        "speed": ""
+        "speed": [0]
     }
 }, {
     "reviewerID": "A6DF9OQYVGS8X",
@@ -937,8 +937,8 @@
         "4": "Speed seems great as well, no complaints."
     },
     "aspects": {
-        "works": "",
-        "speed": ""
+        "works": [0],
+        "speed": [0]
     }
 }, {
     "reviewerID": "AR4KV2Q28151J",
@@ -957,7 +957,7 @@
         "3": "It's great."
     },
     "aspects": {
-        "ease of use": ""
+        "ease of use": [0]
     }
 }, {
     "reviewerID": "A3C1GQH1ISWBE7",
@@ -974,7 +974,7 @@
         "1": "It was exactly what i expected and needed so no complaints."
     },
     "aspects": {
-        "storage": ""
+        "storage": [0]
     }
 }, {
     "reviewerID": "A3RTEJFZK8KL5R",
@@ -992,7 +992,7 @@
         "2": "I put it in my phone and plan to buy another one for my tablet."
     },
     "aspects": {
-        "price": "Priced right"
+        "price": [0]
     }
 }, {
     "reviewerID": "A2KJY8F5O1U5D6",
@@ -1013,7 +1013,7 @@
         "5": "This card does about 8-9MB/s.Can't wait till 128GB and 256GB cards become available and affordable."
     },
     "aspects": {
-        "speed": "class 10 micro-sdhc cards, it does NOT do 10MB/s, but it's closer than any other class 10 card I've ever tried.  Most do 3-4MB/s"
+        "speed": [2, 3]
     }
 }, {
     "reviewerID": "A1B1F2MVZ2MZYJ",
@@ -1032,7 +1032,7 @@
         "3": "Wish I had bought another for more collections."
     },
     "aspects": {
-        "speed": "The copy process from computer to card was fast"
+        "speed": [1]
     }
 }, {
     "reviewerID": "A13PWRAEW1WMG6",
@@ -1051,7 +1051,7 @@
         "3": "That wasn't a SD card issue but I thought I would throw that in."
     },
     "aspects": {
-        "hardware": "Only slight nitpick is when booting up into recovery mode on the S3 it will not recognize the card"
+        "hardware": [0]
     }
 }, {
     "reviewerID": "AJVGREW8IXDGC",
@@ -1069,7 +1069,7 @@
         "2": "As a matter of fact I've already exhausted the remaining space on the card so this 64GB will allow me to take more photos (of our son)."
     },
     "aspects": {
-        "storage": "As a matter of fact I've already exhausted the remaining space on the card so this 64GB will allow me to take more photos"
+        "storage": [2]
     }
 }, {
     "reviewerID": "A16PH8I60IGM4F",
@@ -1088,7 +1088,7 @@
         "3": "Excellent price, works great, and very quick delivery."
     },
     "aspects": {
-        "size": "memory card fitting the Samsung Galaxy Tab 3 10.1 tablet.  It fits and works no problem at all"
+        "size": [0, 1]
     }
 }, {
     "reviewerID": "A39P69WIIWU2TI",
@@ -1106,7 +1106,7 @@
         "2": "Both read and write speeds are right where the specs say they should be."
     },
     "aspects": {
-        "ease of use": "both read and write speeds are right where the specs say they should be"
+        "ease of use":[2]
     }
 }, {
     "reviewerID": "A1JOXGZH55JMHW",
@@ -1124,7 +1124,7 @@
         "2": "didn't really worth the price difference"
     },
     "aspects": {
-        "speed": "class 10 will be faster and more reliable than others"
+        "speed": [0]
     }
 }, {
     "reviewerID": "A292JUY8KQV3EB",
@@ -1142,7 +1142,7 @@
         "2": "Hadn't had any problem with it."
     },
     "aspects": {
-        "speed": "The SanDisk 32GB Micro SD Class 10 is a reliable SD card with amazing transfer speeds"
+        "speed": [0]
     }
 }, {
     "reviewerID": "ATZX92WLL9OK0",
@@ -1159,7 +1159,7 @@
         "1": "Works flawlessly after three months so far, no problems.In my card reader, I average 6-8 megabytes read and write to it."
     },
     "aspects": {
-        "speed": "In my card reader, I average 6-8 megabytes read and write to it"
+        "speed": [1]
     }
 }, {
     "reviewerID": "A837QPVOZ9YAD",
@@ -1182,8 +1182,8 @@
         "7": "Again no benchmarks yet but once I have them I'll include them here.Right now I'm very happy with this card and I'm really impressed - both with the card and with the unbelievably quick service from Amazon (and I'm in Atlanta where shipments like this one often take the full 3 days to arrive)."
     },
     "aspects": {
-        "delivery time": "I ordered this from Amazon on Tuesday morning, and it arrived with Wednesday's mail",
-        "speed": "a full backup of the phone to the card was significantly faster than the backup with the old 16GB class 6 card"
+        "shipping time": [1],
+        "speed": [6]
     }
 }, {
     "reviewerID": "AG7K6P2FN006",
@@ -1206,7 +1206,7 @@
         "7": "For others who claim that the card doesn't work no matter what they try, chances are their machine cannot support MicroSDXC format."
     },
     "aspects": {
-        "quality": "It provides all the space I need and for people who need a lot of space (videos, Quick Books, picture editing, games, etc.) this card is the one for you"
+        "quality": [1, 2]
     }
 }, {
     "reviewerID": "A1N7LGUPJWWQS9",
@@ -1227,7 +1227,7 @@
         "5": "Only issue I had was I had to format it on my computer first before my phone was able to recognize it."
     },
     "aspects": {
-        "price": "I got this because I just couldn't pass up the deal, $17.99. It has been incredibly fast in my HTC Sensation 4g"
+        "price": [0, 1]
     }
 }, {
     "reviewerID": "A20MEC7JYD5U11",
@@ -1246,7 +1246,7 @@
         "3": "I hope this review is helpful!"
     },
     "aspects": {
-        "storage": "You get a lot of storage at a small price"
+        "storage": [0]
     }
 }, {
     "reviewerID": "ARMG4L2GLW25A",
@@ -1266,7 +1266,7 @@
         "4": "Love it and the storage for even 16 GB, let alone 32, is tremendous..."
     },
     "aspects": {
-        "packaging": "Neither the packaging nor the Sansa Clip player inform the user that the player needs to be totally off before the microcard is inserted"
+        "packaging": [1]
     }
 }, {
     "reviewerID": "A1HXLQOYQB889P",
@@ -1289,7 +1289,7 @@
         "7": "Super fast transfer rate."
     },
     "aspects": {
-        "speed": "Super fast transfer rate"
+        "speed": [7]
     }
 }, {
     "reviewerID": "A2CHQH95XQUY4E",
@@ -1308,7 +1308,7 @@
         "3": "Has worked well and the shipping was fast."
     },
     "aspects": {
-        "size": "This item was priced right and fit right into my cell phone without any issues"
+        "size": [0]
     }
 }, {
     "reviewerID": "A2PZXXPGLXXKZU",
@@ -1337,7 +1337,7 @@
         "13": "They last a really long time."
     },
     "aspects": {
-        "price": "this card is great and very reasonable price of $50"
+        "price": [8]
     }
 }, {
     "reviewerID": "AJEOFP6ZWY0MK",
@@ -1355,7 +1355,7 @@
         "2": "No problems and it played back flawlessly all the files I transferred.There are so many different microSD cards out now but if you see this on sale then you might want to consider it instead of cheaper no-name brand."
     },
     "aspects": {
-        "price": "you see this on sale then you might want to consider it instead of cheaper no-name brand"
+        "price": [2]
     }
 }, {
     "reviewerID": "A1K3GIMTM7F9CY",
@@ -1374,7 +1374,7 @@
         "3": "Thanks again!"
     },
     "aspects": {
-        "shipping time": "Shipping was excellent fast and reliable"
+        "shipping time": [1]
     }
 }, {
     "reviewerID": "A3OJ4FW7C5OJ97",
@@ -1391,7 +1391,7 @@
         "1": "Great place to store pictures and music for phones instead of using the phone memory so it will still run fast."
     },
     "aspects": {
-        "price": "I use this for my phone and it works just as it should and it was totally worth the money"
+        "price": [0]
     }
 }, {
     "reviewerID": "AEOKL03H269BU",
@@ -1428,7 +1428,7 @@
         "5": "Still underwhelmed by the write speed though."
     },
     "aspects": {
-        "speed": "It works but the actual R/W speeds are 18/8 MB/s, not even Class 10"
+        "speed": [0]
     }
 }, {
     "reviewerID": "A16RL0RMRF974O",
@@ -1463,7 +1463,7 @@
         "4": "I use it for my GoPro camera."
     },
     "aspects": {
-        "price": "Does it's job and fairly cheap for what it's worth"
+        "price": [0]
     }
 }, {
     "reviewerID": "A1NZR4UN6DJQIO",
@@ -1499,7 +1499,7 @@
         "6": "Go figure."
     },
     "aspects": {
-        "storage": "when plugged into the computer, we couldn't find the storage in the directory"
+        "storage": [1]
     }
 }, {
     "reviewerID": "A3OWHLRFOJ0UQ0",
@@ -1520,8 +1520,8 @@
         "5": "If you got the most advanced smartphone in the market as I do, this is the memory to get at the right price."
     },
     "aspects": {
-        "price": "Is a very fast memory at a great price",
-        "storage": "Plenty space for pictures, videos and Android Applications"
+        "price": [1],
+        "storage": [2]
     }
 }, {
     "reviewerID": "A3HL0CALF52RAA",
@@ -1539,7 +1539,7 @@
         "2": "Using it for a Samsung Galaxy S4 mini with zero complications."
     },
     "aspects": {
-        "quality": "Love it, good quality good performance"
+        "quality": [0]
     }
 }, {
     "reviewerID": "ATE41IMLCAC2H",
@@ -1557,7 +1557,7 @@
         "2": "I'm very happy with this purchase."
     },
     "aspects": {
-        "shipping time": "This product arrived in two days"
+        "shipping time": [0]
     }
 }, {
     "reviewerID": "AWGV0ZVKI7AG7",
@@ -1574,7 +1574,7 @@
         "1": "I can now store more than ten movies on my tab and play right of the flash disc with no problems.Very happy with this card."
     },
     "aspects": {
-        "storage": "I expanded my Samsung Tab 10.1 tablet from 1GB to 32GB works fast and don't see any lags"
+        "storage": [0]
     }
 }, {
     "reviewerID": "A1AD3VN3XQDABE",
@@ -1593,7 +1593,7 @@
         "3": "Very good product."
     },
     "aspects": {
-        "storage": "I have them installed on my smart phone, cameras and even used as a portable storage device"
+        "storage": [2]
     }
 }, {
     "reviewerID": "A39FMRGSYGLO45",
@@ -1611,7 +1611,7 @@
         "2": "Now can turn it into my laptop directly."
     },
     "aspects": {
-        "quality": "Was pleasantly surprised of the good quality Memory Card Adapter! Now can turn it into my laptop directly"
+        "quality":[1, 2]
     }
 }, {
     "reviewerID": "A1MOG0V4LFZQO",
@@ -1628,7 +1628,7 @@
         "1": "Really recommend this"
     },
     "aspects": {
-        "speed": "The micro SD card was very well made it had great read and write speeds"
+        "speed": [0]
     }
 }, {
     "reviewerID": "AGJZFJV3AHXU5",
@@ -1645,7 +1645,7 @@
         "1": "Have yet to have problems with the card."
     },
     "aspects": {
-        "price": "I bought this item to use in my gopro hero 3 because it's what they sell on the gopro website, but can be had a lot cheaper on Amazon"
+        "price": [0]
     }
 }, {
     "reviewerID": "A6PMHCZJD9FUM",
@@ -1679,7 +1679,7 @@
         "0": "SanDisk is a company you can trust and offering such a good product at a low price.Comes with an adapter and small case to get full sd card size and keep it from getting lost when not in use."
     },
     "aspects": {
-        "price": "SanDisk is a company you can trust and offering such a good product at a low price"
+        "price": [0]
     }
 }, {
     "reviewerID": "A2TQU474BN6JP1",
@@ -1697,7 +1697,7 @@
         "2": "Completely as advertised."
     },
     "aspects": {
-        "adapter": "Appears to be Class 10, holds about as much as it says it does, came with an SD card adapter and they even gave me the option to forgo those ridiculous plastic packages that you all know and hate."
+        "adapter": [0]
     }
 }, {
     "reviewerID": "A3UKIMS698FI6J",
@@ -1715,7 +1715,7 @@
         "2": "The micro card works with anything that also takes standard cards due to the included adapter."
     },
     "aspects": {
-        "adapter": "The micro card works with anything that also takes standard cards due to the included adapter"
+        "adapter": [2]
     }
 }, {
     "reviewerID": "A1T3IFYJ59UFOQ",
@@ -1734,7 +1734,7 @@
         "3": "Not quite sure about the features this chip is supposed to have but for the amount of memory it was a good deal - extra features or not."
     },
     "aspects": {
-        "price": "Have always had good experiences with SanDisk products.  This was priced well"
+        "price": [0, 1]
     }
 }, {
     "reviewerID": "A1OKTNPURCNYKX",
@@ -1754,7 +1754,7 @@
         "4": "San-disk is a pretty reliable brand as you won't be able to go wrong with it."
     },
     "aspects": {
-        "adapter": "Comes with a nice little adapter for your MicroSDHC so you can use it as a normal size SD card also"
+        "adapter": [0]
     }
 }, {
     "reviewerID": "A2T71JNR3C2DY1",
@@ -1772,7 +1772,7 @@
         "2": "I used the adapter to connect it to my computer, but it wouldn't mount.I bought this directly from Amazon and not a third party vendor, so I know it's genuine SanDisk."
     },
     "aspects": {
-        "adapter": "I used the adapter to connect it to my computer, but it wouldn't mount."
+        "adapter": [2]
     }
 }, {
     "reviewerID": "A5L34G2P8LQKJ",
@@ -1788,7 +1788,7 @@
         "0": "Shipping was fast , the product has a great quality and a great pricing.I like this manufacture and I am going to order them for my other devices.Lots of space"
     },
     "aspects": {
-        "shipping time": "Shipping was fast , the product has a great quality and a great pricing."
+        "shipping time": [0]
     }
 }, {
     "reviewerID": "A38I3TXSFLGQTD",
@@ -1821,7 +1821,7 @@
         "0": "I'm using this SD card in my Samsung Galaxy S3 instead of another one I bought with the same manufacture \"SanDisk 32 GB Mobile microSDHC Flash Memory Card SDSDQ-032G-AFFP\" (http://www.amazon.com/gp/product/B007KFXIDE/ref=oh_details_o04_s00_i02?ie=UTF8&psc;=1).It's working perfectly since October 2012."
     },
     "aspects": {
-        "quality": "It's working perfectly since October 2012"
+        "quality": [0]
     }
 }, {
     "reviewerID": "A87U7LY9OKZNY",
@@ -1858,7 +1858,7 @@
         "2": "What more can you say?"
     },
     "aspects": {
-        "price": "Got this because you can't beat the price and Sandisk has so far always been reliable for me"
+        "price": [0]
     }
 }, {
     "reviewerID": "A1VLE2SH9J8WYS",
@@ -1878,7 +1878,7 @@
         "4": "What else could you ask for?"
     },
     "aspects": {
-        "speed": "Fast transfer rate, good capacity, and reasonable price."
+        "speed": [3]
     }
 }, {
     "reviewerID": "A1VE1AX6QDB7RI",
@@ -1895,7 +1895,7 @@
         "1": "The price wasn't a great cost savings but because it came from Amazon which has a great reputation to date as far as I am concerned, I purchased through them."
     },
     "aspects": {
-        "price": "The price wasn't a great cost savings but because it came from Amazon which has a great reputation to date as far as I am concerned, I purchased through them."
+        "price": [1]
     }
 }, {
     "reviewerID": "AX1D247AREH22",
@@ -1917,6 +1917,6 @@
         "6": "Battery ran out before it ran out of memory."
     },
     "aspects": {
-        "price": "Thought the sale price $119 is excellent"
+        "price": [2]
     }
 }]
