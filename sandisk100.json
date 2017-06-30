@@ -187,7 +187,7 @@
     },
     "aspects": {
         "speed": [0],
-        "capacity": [0],
+        "storage": [0],
         "price": [0],
         "works": [1]
     }
@@ -547,7 +547,7 @@
     },
     "aspects": {
         "speed": [0],
-        "build quality": [0],
+        "quality": [0],
         "longevity": [0]
     }
 }, {
@@ -879,7 +879,8 @@
     },
     "aspects": {
         "speed": [0],
-        "ease of use": [2]
+        "ease of use": [2],
+        "reliability": [2]
     }
 }, {
     "reviewerID": "APAEBFIM1588A",
@@ -1124,7 +1125,9 @@
         "2": "didn't really worth the price difference"
     },
     "aspects": {
-        "speed": [0]
+        "speed": [0],
+        "reliability": [0, 1],
+        "compatibility": [1]
     }
 }, {
     "reviewerID": "A292JUY8KQV3EB",
@@ -1142,6 +1145,7 @@
         "2": "Hadn't had any problem with it."
     },
     "aspects": {
+        "reliability": [0],
         "speed": [0]
     }
 }, {
@@ -1463,7 +1467,10 @@
         "4": "I use it for my GoPro camera."
     },
     "aspects": {
-        "price": [0]
+        "works": [0],
+        "price": [0],
+        "quality": [2],
+        "compatibility": [4]
     }
 }, {
     "reviewerID": "A1NZR4UN6DJQIO",
@@ -1521,6 +1528,7 @@
     },
     "aspects": {
         "price": [1],
+        "speed": [1, 4],
         "storage": [2]
     }
 }, {
@@ -1539,7 +1547,8 @@
         "2": "Using it for a Samsung Galaxy S4 mini with zero complications."
     },
     "aspects": {
-        "quality": [0]
+        "quality": [0],
+        "compatibility": [2]
     }
 }, {
     "reviewerID": "ATE41IMLCAC2H",
@@ -1557,6 +1566,7 @@
         "2": "I'm very happy with this purchase."
     },
     "aspects": {
+        "compatibility": [0],
         "shipping time": [0]
     }
 }, {
@@ -1574,6 +1584,7 @@
         "1": "I can now store more than ten movies on my tab and play right of the flash disc with no problems.Very happy with this card."
     },
     "aspects": {
+        "speed": [0],
         "storage": [0]
     }
 }, {
@@ -1593,7 +1604,8 @@
         "3": "Very good product."
     },
     "aspects": {
-        "storage": [2]
+        "storage": [2],
+        "quality": [3]
     }
 }, {
     "reviewerID": "A39FMRGSYGLO45",
@@ -1611,7 +1623,10 @@
         "2": "Now can turn it into my laptop directly."
     },
     "aspects": {
-        "quality":[1, 2]
+        "compatibility": [0],
+        "works": [0],
+        "speed": [1],
+        "quality": [1]
     }
 }, {
     "reviewerID": "A1MOG0V4LFZQO",
@@ -1628,7 +1643,8 @@
         "1": "Really recommend this"
     },
     "aspects": {
-        "speed": [0]
+        "speed": [0],
+        "storage": [0]
     }
 }, {
     "reviewerID": "AGJZFJV3AHXU5",
@@ -1679,7 +1695,8 @@
         "0": "SanDisk is a company you can trust and offering such a good product at a low price.Comes with an adapter and small case to get full sd card size and keep it from getting lost when not in use."
     },
     "aspects": {
-        "price": [0]
+        "price": [0],
+        "adapter": [0]
     }
 }, {
     "reviewerID": "A2TQU474BN6JP1",
@@ -1715,6 +1732,9 @@
         "2": "The micro card works with anything that also takes standard cards due to the included adapter."
     },
     "aspects": {
+        "recording": [0],
+        "works": [0],
+        "compatibility": [0, 2],
         "adapter": [2]
     }
 }, {
@@ -1734,7 +1754,9 @@
         "3": "Not quite sure about the features this chip is supposed to have but for the amount of memory it was a good deal - extra features or not."
     },
     "aspects": {
-        "price": [0, 1]
+        "price": [1],
+        "works": [2],
+        "storage": [3]
     }
 }, {
     "reviewerID": "A1OKTNPURCNYKX",
@@ -1754,7 +1776,12 @@
         "4": "San-disk is a pretty reliable brand as you won't be able to go wrong with it."
     },
     "aspects": {
-        "adapter": [0]
+        "adapter": [0],
+        "price": [1],
+        "speed": [0],
+        "recording": [1, 2],
+        "works": [3],
+        "reliability": [4]
     }
 }, {
     "reviewerID": "A2T71JNR3C2DY1",
@@ -1772,6 +1799,7 @@
         "2": "I used the adapter to connect it to my computer, but it wouldn't mount.I bought this directly from Amazon and not a third party vendor, so I know it's genuine SanDisk."
     },
     "aspects": {
+        "reliability": [1],
         "adapter": [2]
     }
 }, {
@@ -1788,7 +1816,10 @@
         "0": "Shipping was fast , the product has a great quality and a great pricing.I like this manufacture and I am going to order them for my other devices.Lots of space"
     },
     "aspects": {
-        "shipping time": [0]
+        "shipping time": [0],
+        "quality": [0],
+        "price": [0],
+        "storage": [0]
     }
 }, {
     "reviewerID": "A38I3TXSFLGQTD",
@@ -1806,7 +1837,9 @@
         "2": "So this is my second one.",
         "3": "Hopefully it keeps all of my stuff"
     },
-    "aspects": {}
+    "aspects": {
+        "works": [0]
+    }
 }, {
     "reviewerID": "A3GW32TC64P8FD",
     "asin": "B007WTAJTO",
@@ -1841,7 +1874,9 @@
         "4": "Since I have private files in the card I'm not able to delete.",
         "5": "I do not want to sent it back to SanDisk for replacement."
     },
-    "aspects": {}
+    "aspects": {
+        "issue": [1, 2]
+    }
 }, {
     "reviewerID": "A3LBEV0UWH9V2G",
     "asin": "B007WTAJTO",
@@ -1858,6 +1893,7 @@
         "2": "What more can you say?"
     },
     "aspects": {
+        "reliability": [0],
         "price": [0]
     }
 }, {
@@ -1878,7 +1914,11 @@
         "4": "What else could you ask for?"
     },
     "aspects": {
-        "speed": [3]
+        "quality": [0, 2],
+        "works": [2],
+        "speed": [3],
+        "storage": [3],
+        "price": [3]
     }
 }, {
     "reviewerID": "A1VE1AX6QDB7RI",
@@ -1895,6 +1935,7 @@
         "1": "The price wasn't a great cost savings but because it came from Amazon which has a great reputation to date as far as I am concerned, I purchased through them."
     },
     "aspects": {
+        "works": [0],
         "price": [1]
     }
 }, {
@@ -1917,6 +1958,8 @@
         "6": "Battery ran out before it ran out of memory."
     },
     "aspects": {
-        "price": [2]
+        "storage": [0],
+        "price": [2, 4],
+        "recording": [5]
     }
 }]

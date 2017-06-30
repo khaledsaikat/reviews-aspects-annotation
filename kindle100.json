@@ -170,7 +170,7 @@
         "6": "We've also been able to download, install, and run a myriad of apps without a hitch.It's great for vacations, entertaining the children, and unwinding in the evening before heading to bed.At the end of the day, it's another high quality product from Amazon, and just another reason why I am definitely going to purchase certified refurbished devices from Amazon once more in the future."
     },
     "aspects": {
-        "build quality": [3, 6],
+        "quality": [3, 6],
         "response time": [4],
         "ease of use": [5]
     }
@@ -273,7 +273,7 @@
         "1": "Battery life is many hours (several hours with video streaming), and it does everythingthat is is advertized to do without a glitch.Perfect.I would strongly recommend purchase of this device."
     },
     "aspects": {
-        "build quality": [0],
+        "quality": [0],
         "battery life": [1],
         "response time": [1]
     }
@@ -293,7 +293,7 @@
         "2": "I have access to a few devices find myself time and again reaching for the Kindle.You will never be able to put it down."
     },
     "aspects": {
-        "build quality": [1]
+        "quality": [1]
     }
 }, {
     "reviewerID": "A3SBYIZ1G1R8WJ",
@@ -488,7 +488,7 @@
     },
     "aspects": {
         "price": [1],
-        "book reading": [6]
+        "reading": [6]
     }
 }, {
     "reviewerID": "A2V9DTXTQ5YIMK",
@@ -554,7 +554,7 @@
         "2": "Highly recommend this to anyone looking for a good book reader and something to surf the internet as well."
     },
     "aspects": {
-        "book reading": [2],
+        "reading": [2],
         "browsing": [2]
     }
 }, {
@@ -814,7 +814,7 @@
         "2": "It is great to read my digital books on and other on line things that my &#34;Dumb Phone&#34; can't do while I am out and about."
     },
     "aspects": {
-        "book reading": [2]
+        "reading": [2]
     }
 }, {
     "reviewerID": "A3BR4QANUW9RUZ",
@@ -1094,7 +1094,7 @@
     },
     "aspects": {
         "shipping time": [1],
-        "book reading": [8]
+        "reading": [8]
     }
 }, {
     "reviewerID": "A2VQWZZQ5Q8D8R",
@@ -1683,7 +1683,7 @@
         "8": "Not worth returning, but it loses a star."
     },
     "aspects": {
-        "screen": [3]
+        "screen": [3, 6, 7]
     }
 }, {
     "reviewerID": "A2A6QBEALE4SD2",
@@ -1708,7 +1708,9 @@
         "9": "Just wish my daughter would let me use it more!"
     },
     "aspects": {
-        "price": [4, 5, 6]
+        "wifi": [1],
+        "browsing": [3],
+        "price": [4]
     }
 }, {
     "reviewerID": "A1LSCZIWX3UTWM",
@@ -1745,6 +1747,8 @@
         "3": "Battery life is impressive but drains faster on some games though!"
     },
     "aspects": {
+        "apps": [1],
+        "reading": [2],
         "battery life": [3]
     }
 }, {
@@ -1796,7 +1800,9 @@
         "5": "I would have liked it to have flash player but apparently it may be possible to install it, I haven't tried yet."
     },
     "aspects": {
-        "software": [1, 2]
+        "software": [1, 2],
+        "apps": [4],
+        "browsing": [4]
     }
 }, {
     "reviewerID": "A23KXLB49XNM0W",
@@ -1813,7 +1819,11 @@
         "1": "easy to set up, easy to get apps and pretty much does everything but cook for me &#60;3 super duper awesome price super fast shipping i am so happy i got this it acutally linked my first kindle to it what a great product"
     },
     "aspects": {
-        "screen": [0]
+        "screen": [0],
+        "ease of use": [1],
+        "price": [1],
+        "shipping time": [1],
+        "quality": [1]
     }
 }, {
     "reviewerID": "A19950XRZ3CEC7",
@@ -1842,6 +1852,7 @@
         "13": "My experience with the Kindle Fire HD - sometimes the responsiveness is not as smooth as it could be, but the fraction of a second of hesitation doesn't hamper my user experience."
     },
     "aspects": {
+        "streaming": [9],
         "price": [12]
     }
 }, {
@@ -1861,7 +1872,8 @@
         "3": "."
     },
     "aspects": {
-        "ease of use": [2]
+        "ease of use": [0, 1],
+        "wifi": [1]
     }
 }, {
     "reviewerID": "A18HR5406C0WH0",
@@ -1882,7 +1894,10 @@
         "5": "This is a wonderful tablet, and price is better than others."
     },
     "aspects": {
+        "ease of use": [0],
         "screen": [1],
+        "wifi": [2],
+        "apps": [4],
         "price": [5]
     }
 }, {
@@ -1910,7 +1925,9 @@
         "11": "Great"
     },
     "aspects": {
-        "price": [5]
+        "apps": [2, 4],
+        "price": [5],
+        "quality": [11]
     }
 }, {
     "reviewerID": "A2XT8RCSDXYU5Z",
@@ -1948,7 +1965,9 @@
         "22": "But looking up your Chinese Horoscope teaches them how easy everything is to find."
     },
     "aspects": {
-        "apps": [4, 5, 6, 7, 8]
+        "reading": [5, 6],
+        "streaming": [8],
+        "apps": [5, 6, 7, 8]
     }
 }, {
     "reviewerID": "A3IFYLQKASM5DE",
@@ -1968,6 +1987,7 @@
         "4": "I was good to go for my multiple flight trip."
     },
     "aspects": {
+        "shipping time": [1],
         "apps": [2, 3]
     }
 }, {
@@ -1989,7 +2009,9 @@
         "5": "I highly recommend this product."
     },
     "aspects": {
-        "customer service": [4, 5]
+        "camera": [2],
+        "reading": [3],
+        "customer service": [4]
     }
 }, {
     "reviewerID": "A3NYFMW62I3QBA",
@@ -2023,7 +2045,8 @@
         "18": "Is that it doesn't have an sd card slot..but so far I haven'tRun out of memory yet...Amazon, PLEASE ADD EXTERNAL MEMORY to future model's."
     },
     "aspects": {
-        "apps": [8]
+        "apps": [8],
+        "battery life": [13]
     }
 }, {
     "reviewerID": "ADQPYD8ZRA9T0",
@@ -2105,7 +2128,10 @@
         "5": "I would like to be able to buy Brave and 3 seasons of Walking Dead through Amazon without concern for my children watching things above their age."
     },
     "aspects": {
-        "screen": [2]
+        "quality": [1, 3],
+        "screen": [2],
+        "sound quality": [2],
+        "response time": [2]
     }
 }, {
     "reviewerID": "AO32FDFVP0T05",
@@ -2147,7 +2173,8 @@
         "4": "So glad I purchased this!"
     },
     "aspects": {
-        "screen": [1, 2, 3]
+        "screen": [2, 3],
+        "response time": [3]
     }
 }, {
     "reviewerID": "A1JKWKKSN9P7XX",
@@ -2173,7 +2200,8 @@
         "10": "!"
     },
     "aspects": {
-        "size": [5, 6]
+        "size": [5, 6],
+        "apps": [7]
     }
 }, {
     "reviewerID": "A3EIPQLZ5UF0UK",
