@@ -60,6 +60,7 @@
         "sound quality": [1, 3],
         "noise cancellation": [2],
         "size": [3],
+        "cord": [4],
         "price worthy": [5]
     }
 }, {
@@ -971,6 +972,7 @@
     },
     "aspects": {
         "sound quality": [1, 2],
+        "cord": [2],
         "price": [3]
     }
 }, {
@@ -990,8 +992,10 @@
     },
     "aspects": {
         "sound quality": [0],
+        "fit": [1],
+        "design": [1],
         "price": [0, 2],
-        "comfortability": [1]
+        "cord": [2]
     }
 }, {
     "reviewerID": "A3RE92TU1FLGJ0",
@@ -1012,7 +1016,9 @@
     },
     "aspects": {
         "quality": [1, 2],
-        "sound quality": [1]
+        "sound quality": [1],
+        "cord": [2],
+        "durability": [3]
     }
 }, {
     "reviewerID": "A3JY5HHB6HM0PB",
@@ -1051,7 +1057,9 @@
     "aspects": {
         "design": [0],
         "noise cancellation": [1],
-        "comfortability": [1]
+        "comfortability": [1],
+        "fit": [1],
+        "color": [2]
     }
 }, {
     "reviewerID": "A2TJPLT2K3U49E",
@@ -1074,7 +1082,7 @@
         "7": "These are great earbuds in a quite environ, but not nearly as good, or useful, in a normal-noise or loud area, i.e., an airplane or some workplaces, like mine."
     },
     "aspects": {
-        "sound quality": [1, 3],
+        "sound quality": [1, 3, 4],
         "noise cancellation": [7]
     }
 }, {
@@ -1095,7 +1103,7 @@
         "4": "But it is better than expected for music."
     },
     "aspects": {
-        "sound quality": [0, 1]
+        "sound quality": [0, 1, 2]
     }
 }, {
     "reviewerID": "A36CBTZJAKJ08J",
@@ -1112,7 +1120,7 @@
         "1": "One thing I really like is that they don't have as much of a problem with the wire thumping."
     },
     "aspects": {
-        "design": [0]
+        "cord": [1]
     }
 }, {
     "reviewerID": "A1O1ZTQW0JDI2V",
@@ -1130,6 +1138,10 @@
     },
     "aspects": {
         "quality": [0],
+        "price": [1],
+        "comfortability": [1],
+        "sound quality": [1],
+        "color": [1],
         "price": [1]
     }
 }, {
@@ -1146,7 +1158,10 @@
         "0": "I like the color and the build, I wish it has a built in mic tho.",
         "1": "I prefer earphones with mic to control the on/off and volume since I'm always on the go and mostly use my phone while walking to talk with clients."
     },
-    "aspects": {}
+    "aspects": {
+        "color": [0],
+        "quality": [0]
+    }
 }, {
     "reviewerID": "A2MUGG762M4YUQ",
     "asin": "B003ELYQGG",
@@ -1170,9 +1185,16 @@
         "9": "At first glance, they could look awkward, but thats how your ear canal is actually shaped, thus the headphones never fall out."
     },
     "aspects": {
+        "quality": [0],
+        "durability": [2],
         "sound quality": [3],
+        "noise cancellation": [4],
         "price": [6],
-        "comfortability": [8]
+        "durability": [6],
+        "color": [7],
+        "comfortability": [8],
+        "design": [9],
+        "fit": [9]
     }
 }, {
     "reviewerID": "A5WH0Y8YSM1IY",
@@ -1193,6 +1215,9 @@
     },
     "aspects": {
         "delivery time": [0],
+        "design": [2],
+        "fit": [2],
+        "sound quality": [2],
         "durability": [3],
         "price worthy": [4]
     }
@@ -1213,6 +1238,7 @@
         "3": "Reasonably priced and rapid delivery...looks like a winner to me!"
     },
     "aspects": {
+        "fit": [0],
         "sound quality": [1],
         "price": [3],
         "delivery time": [3]
@@ -1235,7 +1261,7 @@
         "4": "If you are not into heavy bass, these are great."
     },
     "aspects": {
-        "sound quality": [3]
+        "sound quality": [0, 3, 4]
     }
 }, {
     "reviewerID": "A1XCQZWMRND95A",
@@ -1344,6 +1370,8 @@
     },
     "aspects": {
         "price": [0],
+        "fit": [1],
+        "cord": [2, 3, 4, 5],
         "sound quality": [1],
         "comfortability": [1]
     }
@@ -1369,9 +1397,11 @@
         "8": "Awesome product!"
     },
     "aspects": {
+        "fit": [3, 5],
         "sound quality": [4],
         "price": [5],
-        "comfortability": [5]
+        "comfortability": [5],
+        "durability": [6]
     }
 }, {
     "reviewerID": "A1U43336MV3WFE",
@@ -1398,7 +1428,10 @@
         "11": "You don't want them."
     },
     "aspects": {
-        "quality": [4, 5]
+        "cord": [1],
+        "fit": [2],
+        "comfortability": [3],
+        "sound quality": [4, 5, 6]
     }
 }, {
     "reviewerID": "AED8R9IHAMHRA",
@@ -1446,7 +1479,9 @@
         "15": "These are a wonderful buy."
     },
     "aspects": {
-        "sound quality": [6]
+        "fit": [5, 14],
+        "sound quality": [6, 14],
+        "price": [15]
     }
 }, {
     "reviewerID": "AJIPZNEJC1ONA",
@@ -1483,7 +1518,8 @@
         "7": "For now the only &#34;con&#34; is the wire is a bit on the very-thin side, with some thicker cables it would rank a 5."
     },
     "aspects": {
-        "sound quality": [5]
+        "sound quality": [5],
+        "cord": [7]
     }
 }, {
     "reviewerID": "A20WOIO9VCUDAW",
@@ -1521,7 +1557,8 @@
         "0": "great  earbud  love  the  bass  love  the  sound  love  the  way  they  fit  in  my  ear  this  is  one  good  sounding  earbud  yes  I  would  buy  this  item  again."
     },
     "aspects": {
-        "sound quality": [0]
+        "sound quality": [0],
+        "fit": [0]
     }
 }, {
     "reviewerID": "A3KMUHGAZME8VN",
@@ -1568,7 +1605,8 @@
     },
     "aspects": {
         "design": [2],
-        "sound quality": [3]
+        "sound quality": [3],
+        "fit": [4]
     }
 }, {
     "reviewerID": "A3PFTYY8YF8Y6J",
@@ -1595,7 +1633,8 @@
     },
     "aspects": {
         "quality": [0, 7],
-        "sound quality": [1]
+        "sound quality": [1],
+        "durability": [4]
     }
 }, {
     "reviewerID": "ASR19ML66FIU5",
@@ -1612,6 +1651,7 @@
     },
     "aspects": {
         "sound quality": [0],
+        "color": [0],
         "price": [0]
     }
 }, {
@@ -1667,6 +1707,7 @@
         "1": "Well packaged and shipped in a timely fashion."
     },
     "aspects": {
+        "packaging": [1],
         "delivery time": [1]
     }
 }, {
@@ -1711,7 +1752,9 @@
         "3": "These allow enjoyable listening for long periods without fatigue, in itself a wonderful attribute.Recommended."
     },
     "aspects": {
-        "price": [2]
+        "sound quality": [0, 2],
+        "price": [2],
+        "comfortability": [3]
     }
 }, {
     "reviewerID": "A2VJC2NUFP4X9I",
@@ -1750,7 +1793,8 @@
     },
     "aspects": {
         "sound quality": [0, 2],
-        "price": [0]
+        "price": [0],
+        "fit": [2]
     }
 }, {
     "reviewerID": "A1LHZ500F6LWBJ",
@@ -1776,8 +1820,8 @@
         "10": "It also fits into my Nexus 7 w/ Seidio Active case."
     },
     "aspects": {
-        "sound quality": [3],
-        "design": [9, 10]
+        "sound quality": [3, 8],
+        "fit": [9, 10]
     }
 }, {
     "reviewerID": "A50T41BDM3XWX",
@@ -1795,7 +1839,7 @@
     "aspects": {
         "price": [0],
         "sound quality": [0],
-        "design": [0]
+        "fit": [0]
     }
 }, {
     "reviewerID": "APKFIZH7HLZ6X",
@@ -1835,7 +1879,8 @@
     "aspects": {
         "design": [0, 1],
         "comfortability": [0],
-        "sound quality": [1]
+        "sound quality": [1],
+        "fit": [1]
     }
 }, {
     "reviewerID": "AV178ZN8DWXTP",
@@ -1916,8 +1961,11 @@
         "10": "The set comes with three sizes of comfortable ear fittings.Despite the few redemptive qualities, these headphones lack what I consider the most important attribute of any headphones; good sound quality."
     },
     "aspects": {
+        "cord": [6, 7],
         "sound quality": [4, 10],
-        "price": [9]
+        "price": [9],
+        "color": [9],
+        "fit": [10]
     }
 }, {
     "reviewerID": "A1KB8S0NNIS38",
@@ -1936,6 +1984,8 @@
         "3": "Now with that being said, I have a pair of $30 Over the Ear Seinheisers that blow these out of the water so the point should be made that if you trying to get quality with a strict budget, you may want to look elsewhere and spend just a bit more money."
     },
     "aspects": {
+        "price": [0],
+        "quality": [0],
         "sound quality": [2]
     }
 }, {
@@ -1973,7 +2023,8 @@
         "1": "I use them while riding my motorcycle."
     },
     "aspects": {
-        "sound quality": [0]
+        "sound quality": [0],
+        "fit": [0]
     }
 }, {
     "reviewerID": "AJMJUQLU374EN",
@@ -1992,7 +2043,10 @@
         "3": "We have ordered another pair and would very highly recommend these for the price!"
     },
     "aspects": {
-        "sound quality": [1]
+        "packaging": [0],
+        "sound quality": [1],
+        "fit": [1],
+        "price worthy": [3]
     }
 }, {
     "reviewerID": "A126T1VRTWKNBH",
@@ -2010,8 +2064,9 @@
         "2": "5  stars for sound and minus 1 for cheap cord."
     },
     "aspects": {
-        "design": [0],
-        "sound quality": [2]
+        "fit": [0],
+        "sound quality": [0, 2],
+        "cord": [2]
     }
 }, {
     "reviewerID": "ATGR61P08PW68",
@@ -2030,7 +2085,8 @@
     },
     "aspects": {
         "noise cancellation": [2],
-        "design": [2]
+        "design": [2],
+        "fit": [2]
     }
 }, {
     "reviewerID": "A3O0P7XGZO3COI",
@@ -2050,7 +2106,8 @@
         "4": "In order to hear the bass stick those suckers deep in your ears, but not too deep, sont want to get hurt haha."
     },
     "aspects": {
-        "sound quality":[0, 1, 2, 4]
+        "sound quality":[0, 1, 2],
+        "price": [0]
     }
 }, {
     "reviewerID": "A1VEELTKS8NLZB",
@@ -2069,7 +2126,9 @@
         "3": "If you want a fantastic set of earphones, then these aren't the ones you want, but if you're looking for a pretty good pair at a very low price, then grab these."
     },
     "aspects": {
-        "price": [0]
+        "price": [0],
+        "sound quality": [2],
+        "price worthy": [3]
     }
 }, {
     "reviewerID": "A12W6FAQT8ZH7Y",
@@ -2087,6 +2146,7 @@
         "2": "The sound is just so so, not much bass at all."
     },
     "aspects": {
+        "cord": [0, 1],
         "sound quality": [2]
     }
 }]

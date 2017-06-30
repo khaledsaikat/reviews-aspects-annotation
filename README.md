@@ -5,17 +5,21 @@ Manually assign aspects to amazon product reviews
 
 ### headphone100.json
 ```
-Total count:  10
-Counter({'sound quality': 71, 'price': 47, 'comfortability': 24, 'quality': 19, 'noise cancellation': 13, 'design': 12, 'price worthy': 7, 'durability': 4, 'size': 3, 'delivery time': 3})
+Total count:  14
+Counter({'sound quality': 76, 'price': 50, 'comfortability': 26, 'quality': 21, 'fit': 20, 'noise cancellation': 14, 'cord': 11, 'design': 11, 'price worthy': 9, 'durability': 8, 'color': 6, 'size': 3, 'delivery time': 3, 'packaging': 2})
 
-Top count 7 with min 5 reviews
-Counter({'sound quality': 71,
-         'price': 47,
-         'comfortability': 24,
-         'quality': 19,
-         'noise cancellation': 13,
-         'design': 12,
-         'price worthy': 7})
+Top count 11 with min 5 reviews
+Counter({'sound quality': 76,
+         'price': 50,
+         'comfortability': 26,
+         'quality': 21,
+         'fit': 20,
+         'noise cancellation': 14,
+         'cord': 11,
+         'design': 11,
+         'price worthy': 9,
+         'durability': 8,
+         'color': 6})
 ```
 
 ### kindle100.json
