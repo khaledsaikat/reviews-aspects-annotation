@@ -3,7 +3,7 @@ Manually assign aspects to amazon product reviews
 
 ## Aspects count
 
-### headphones100.json
+### headphone100.json
 ```
 Total count:  10
 Counter({'sound quality': 71, 'price': 47, 'comfortability': 24, 'quality': 19, 'noise cancellation': 13, 'design': 12, 'price worthy': 7, 'durability': 4, 'size': 3, 'delivery time': 3})
