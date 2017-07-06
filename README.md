@@ -65,17 +65,21 @@ Counter({'speed': 38,
 
 ## Inspecting by script
 
+
 ```
 from annotation import Annotation
-a = Annotation()
-a.loadReviews("headphone100.json")
+
+annotation = Annotation()
+annotation.loadReviews("headphone100.json")
 
 # Showing annotated aspects name with reviews numbers
-a.showManualAspects()
+annotation.showManualAspects()
 
 # Showing aspects for each line
-a.showLinesAspects()
+annotation.showLinesAspects()
 
 # Creating cluster based on aspects
-a.showAspectsGruopsText()
+annotation.showAspectsGruopsText()
 ```
+
+Script has been written on python3

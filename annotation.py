@@ -34,7 +34,7 @@ class Annotation:
         '''Show all aspects and qualified aspects'''
         aspects = self.getManualAspects()
         print("Total count: ", len(aspects))
-        print(aspects)
+        pprint(aspects)
 
         self._setTopAspects(minCount)
         top = Counter({k: v for k, v in dict(
@@ -81,8 +81,7 @@ class Annotation:
 
     def showLinesAspects(self):
         '''Showing line number of all reviews and their aspects'''
-        lines = self.getAllLinesAspectsDict()
-        pprint(lines)
+        pprint(self.getAllLinesAspectsDict())
 
 
     def getAspectsGruops(self):
@@ -118,8 +117,14 @@ class Annotation:
 
 
 if __name__ == "__main__":
-    a = Annotation()
-    a.loadReviews("headphone100.json")
-    a.showManualAspects()
-    a.showLinesAspects()
-    a.showAspectsGruopsText()
+    annotation = Annotation()
+    annotation.loadReviews("headphone100.json")
+
+    # Showing annotated aspects name with reviews numbers
+    annotation.showManualAspects()
+
+    # Showing aspects for each line
+    annotation.showLinesAspects()
+
+    # Creating cluster based on aspects
+    annotation.showAspectsGruopsText()
