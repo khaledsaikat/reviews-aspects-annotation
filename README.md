@@ -62,3 +62,20 @@ Counter({'speed': 38,
          'shipping time': 6,
          'packaging': 5})
 ```
+
+## Inspecting by script
+
+```
+from annotation import Annotation
+a = Annotation()
+a.loadReviews("headphone100.json")
+
+# Showing annotated aspects name with reviews numbers
+a.showManualAspects()
+
+# Showing aspects for each line
+a.showLinesAspects()
+
+# Creating cluster based on aspects
+a.showAspectsGruopsText()
+```
